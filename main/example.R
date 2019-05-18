@@ -17,7 +17,6 @@ Mi <- 1
 #Data
 SM<- array(0,c(Ss,Ms),dimnames=list(Sn,Mn))
 
-
 SMv = 0 #?
 xv <- 9 #?
 
